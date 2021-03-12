@@ -2,7 +2,7 @@
 
 
 
-$servername = "localhssgggffost";
+$servername = "localhost";
 $username = "root";
 $password = "mysql";
 $dbname = "projekt_man";
